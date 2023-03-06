@@ -20,4 +20,5 @@ Cátedra Rodríguez
 
 
 [Drive con material de la cátedra](https://drive.google.com/drive/folders/1PmZJnmORgb_D7qBEHM7cZpbRfSCDtHiv?usp=share_link)
+
 [Notion con apuntes](https://upbeat-show-d41.notion.site/75-06-Organizaci-n-de-datos-8f9b908e0bb145c3b044784ca92faa35)
